@@ -1,5 +1,5 @@
 // API key
-import { API_KEY } from './config.js';
+const API_KEY = "pk.eyJ1IjoiYW5pc2gxMTA4IiwiYSI6ImNsa2tzcDV0NjB1NjgzZ29hdTE2Z2E1M3gifQ.1zlaKLglpP2Fh9LXOR_01Q";
 
 // Create two overlay groups
 var earthquakeLayer = new L.layerGroup();
